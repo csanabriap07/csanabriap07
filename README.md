@@ -1,8 +1,5 @@
-![Banner](https://github.com/csanabriap07/csanabriap07/blob/main/banner.png)
+![Banner](https://github.com/csanabriap07/csanabriap07/blob/main/Banner.png)
 
-# 👋 ¡Hola! Soy Christian Sanabria  
-
-🎓 **Estudiante de Ingeniería de Sistemas** @ Universidad Nacional de Colombia  
 💡 Interesado en el **Desarrollo de Software**, la **Arquitectura de Aplicaciones** y la **Optimización de Procesos Tecnológicos**.  
 🧩 Enfocado en construir proyectos funcionales, escalables y bien estructurados.
 
@@ -10,13 +7,13 @@
 
 ## 🚀 Proyectos Destacados  
 
-### 🤖 [AI Water Calculator](https://github.com/csanabriap07/AI_WaterCalculator)
+### 🤖 [Water Calculator](https://github.com/csanabriap07/WaterCalculator)
 Calculadora termodinámica inteligente para estimar propiedades del agua y R134a usando modelos físicos y ecuaciones empíricas.  
 **Tecnologías:** Python • Tkinter • Termodinámica • POO  
 
 ---
 
-### 💼 [Challup - App de Retos y Hábitos](https://github.com/csanabriap07/Challup)
+### 💼 [Challup - App de Retos y Hábitos]
 Red social gamificada que promueve el crecimiento personal mediante retos y hábitos diarios, con un enfoque colaborativo.  
 **Tecnologías:** Flutter • SQLite • Firebase • Arquitectura MVC  
 
@@ -40,7 +37,6 @@ Proyecto final de Matemáticas Discretas con énfasis en teoría de conjuntos, r
 ### ⚙️ Herramientas & Librerías  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%230074C1?style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
